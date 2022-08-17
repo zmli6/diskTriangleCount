@@ -1,0 +1,3 @@
+/media/hnu/hnu2022/liziming/diskTC/ProjectV4 best/build/CMakeFiles/BBFTC.dir
+/media/hnu/hnu2022/liziming/diskTC/ProjectV4 best/build/CMakeFiles/edit_cache.dir
+/media/hnu/hnu2022/liziming/diskTC/ProjectV4 best/build/CMakeFiles/rebuild_cache.dir
